@@ -1,16 +1,2 @@
-# ruhi1_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20240215_103409](https://github.com/Ruhi-Radadiya/app_1/assets/150025610/62511f2b-ed90-4356-8e94-dee04a6a949c)
+![Screenshot_20240214_180018](https://github.com/Ruhi-Radadiya/app_1/assets/150025610/b30895ce-e180-4a22-bbd0-9fff4c65b485)
